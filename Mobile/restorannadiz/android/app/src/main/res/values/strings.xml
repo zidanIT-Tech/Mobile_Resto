@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">restorannadiz</string>
+    <string name="title_activity_main">restorannadiz</string>
+    <string name="package_name">ionic.restorannadiz</string>
+    <string name="custom_url_scheme">ionic.restorannadiz</string>
+</resources>
